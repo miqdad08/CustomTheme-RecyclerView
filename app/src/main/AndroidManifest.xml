@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RecyclerView">
         <activity
+            android:name=".fourth_recyclerview.FourthActivity"
+            android:exported="false" />
+        <activity
             android:name=".third_recyclerview.ThirdActivity"
             android:exported="false" />
         <activity
